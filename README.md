@@ -6,12 +6,12 @@
    Это новый гитхаб, старое все потерял :)
    
    pc specs:<br/>
-CPU: amd ryzen 9 5950X,<br/>
-GPU: NVIDIA GeForce RTX 3060 Ti (надеюсь скоро '6' перевенется),<br/>
-Motherboard: ROG Crosshair VIII Hero,<br/>
-RAM: G.Skill F4-3600C18-32GTZR DDR4 x4 (Total ram 128gb),<br/>
-M.2 storage: [{"GP-GSM2NE3100TNTD": '1TB'}, {"Samsung SSD 980 PRO": "2TB"}, {"Samsung SSD 980 PRO": "2TB"}]<br/>
-Сooling: Kraken Z73 RGB | NZXT<br/>
+<b>CPU:</b> amd ryzen 9 5950X,<br/>
+<b>GPU:</b> NVIDIA GeForce RTX 3060 Ti (надеюсь скоро '6' перевенется),<br/>
+<b>Motherboard:</b> ROG Crosshair VIII Hero,<br/>
+<b>RAM:</b> G.Skill F4-3600C18-32GTZR DDR4 x4 (Total ram 128gb),<br/>
+<b>M.2 storage:<b> [{"GP-GSM2NE3100TNTD": '1TB'}, {"Samsung SSD 980 PRO": "2TB"}, {"Samsung SSD 980 PRO": "2TB"}]<br/>
+<b>Сooling:<b> Kraken Z73 RGB | NZXT<br/>
 <b/><img src="https://i.imgur.com/QVM1HFH.png"></img>
 <!---
 Mikuru11/Mikuru11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
