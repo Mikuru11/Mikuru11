@@ -5,13 +5,13 @@
 - 📫 How to reach me https://t.me/procarder1337D
    Это новый гитхаб, старое все потерял :)
    
-   pc specs:<\b>
+   pc specs:<b/>
 CPU: amd ryzen 9 5950X,<\b>
-GPU: NVIDIA GeForce RTX 3060 Ti (надеюсь скоро '6' перевенется),<\b>
-Motherboard: ROG Crosshair VIII Hero,<\b>
-RAM: G.Skill F4-3600C18-32GTZR DDR4 x4 (Total ram 128gb),<\b>
-M.2 storage: [{"GP-GSM2NE3100TNTD": '1TB'}, {"Samsung SSD 980 PRO": "2TB"}, {"Samsung SSD 980 PRO": "2TB"}]<\b>
-Сooling: Kraken Z73 RGB | NZXT<\b>
+GPU: NVIDIA GeForce RTX 3060 Ti (надеюсь скоро '6' перевенется),<b/>
+Motherboard: ROG Crosshair VIII Hero,<b/>
+RAM: G.Skill F4-3600C18-32GTZR DDR4 x4 (Total ram 128gb),<b/>
+M.2 storage: [{"GP-GSM2NE3100TNTD": '1TB'}, {"Samsung SSD 980 PRO": "2TB"}, {"Samsung SSD 980 PRO": "2TB"}]<b/>
+Сooling: Kraken Z73 RGB | NZXT<b/>
 <b/><img src="https://i.imgur.com/QVM1HFH.png"></img>
 <!---
 Mikuru11/Mikuru11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
