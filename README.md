@@ -5,7 +5,7 @@
 - 📫 How to reach me https://t.me/procarder1337D
    Это новый гитхаб, старое все потерял :)
    
-   pc specs:<br/>
+   <b>pc specs:</b><br/>
 <b>CPU:</b> amd ryzen 9 5950X,<br/>
 <b>GPU:</b> NVIDIA GeForce RTX 3060 Ti (надеюсь скоро '6' перевенется),<br/>
 <b>Motherboard:</b> ROG Crosshair VIII Hero,<br/>
