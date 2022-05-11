@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... что? не знаю, нода наверное...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/procarder1337D
+- TWITCH: https://www.twitch.tv/mirai0x24
    Это новый гитхаб, старое все потерял :)
    
    <b>pc specs:</b><br/>
